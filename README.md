@@ -152,53 +152,6 @@ Web Browser → Professional UI → Flask API → Sentiment Analysis → SQLite 
 Dashboard      Real-time JS    RESTful API   ML Models        Statistics
 ```
 
-## 📁 Project Structure
-
-```
-ai-feedback-analyzer/
-├── app.py                    # Main Flask application with UI routes
-├── templates/
-│   └── index.html           # Professional web interface
-├── static/
-│   └── custom.css           # Additional styling
-├── requirements.txt         # Dependencies
-├── run.py                   # One-click startup script
-├── test_api.py             # API testing suite
-├── demo_data.txt           # Sample customer feedback
-├── Dockerfile              # Container configuration
-├── docker-compose.yml      # Orchestration setup
-├── predictions.db          # SQLite database (auto-created)
-└── README.md               # This documentation
-```
-
-## 🎯 Perfect for Portfolio
-
-**Demonstrates Professional Skills:**
-- ✅ **Full-Stack Development** - Backend API + Frontend UI
-- ✅ **Modern Web Design** - Professional, responsive interface
-- ✅ **User Experience** - Intuitive dashboard and workflows
-- ✅ **Production Architecture** - Scalable, maintainable code
-- ✅ **Business Intelligence** - Real-time analytics and metrics
-- ✅ **Commercial Thinking** - End-to-end solution design
-
-## 🚀 Deployment Options
-
-### Development
-- Local Python server with hot reloading
-- Automatic browser opening
-- Debug mode with detailed error messages
-
-### Production
-- Docker containerization
-- Nginx reverse proxy
-- Cloud deployment ready (AWS, Google Cloud, Azure)
-- Health checks and monitoring
-
-### Scaling Options
-- Horizontal scaling with load balancers
-- Database migration to PostgreSQL
-- Redis caching for performance
-- Advanced monitoring with Prometheus
 
 ## 💼 Business Applications
 
